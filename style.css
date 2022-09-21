@@ -38,7 +38,6 @@ main {
 .three-col {
   width: 90%;
   max-width: 1080px;
-  border-radius: 5px;
 }
 .container {
   padding: 3em;
@@ -109,6 +108,10 @@ p {
 @media (min-width: 660px) {
   main {
     margin: 3rem 0;
+  }
+  .three-col {
+    border-radius: 10px;
+    overflow: hidden;
   }
   .row {
     display: flex;
