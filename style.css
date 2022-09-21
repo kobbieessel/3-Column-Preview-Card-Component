@@ -37,7 +37,8 @@ main {
 }
 .three-col {
   width: 90%;
-  max-width: 1000px;
+  max-width: 1080px;
+  border-radius: 5px;
 }
 .container {
   padding: 3em;
