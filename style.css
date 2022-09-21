@@ -69,6 +69,8 @@ p {
   padding: 0.8em 2em;
   border-radius: 100px;
   background-color: var(--very-light-gray);
+  outline: none;
+  cursor: pointer;
 }
 .col a:hover {
   opacity: 0.8;
